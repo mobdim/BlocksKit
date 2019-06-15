@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "BlocksKit",
+      "hash" : "72a2026da5f4c8ab3a91fafa7a5d15a4a0e39573a9a36858daaeeafe8ec1c1a7"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "52671356f157fd76012bfe734bd99b5da1e8db07",
+  "iOS" : [
+    {
+      "name" : "BlocksKit",
+      "hash" : "aa1c6b8b492cfdc64fe7544667d2e28f3625d58723d242c8b7d8022e7aa25c30"
+    }
+  ]
+}
